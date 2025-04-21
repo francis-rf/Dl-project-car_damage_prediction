@@ -2,7 +2,7 @@
 **This app let's you drag and drop an image of a car and it will tell you what kind of damage happend to the car. 
 The model is trained on third quarter front and rare view hence the images are all in front and rare view only.**
 
-![app](./app_screenshot.jpg)
+![app](./streamlit-app/app_screenshot.jpg)
 
 ### Model Details
 1. Used ResNet50 for transfer learning 
